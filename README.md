@@ -1,8 +1,19 @@
-👋 If u want to use it u need to download this content as well 👋
-
- 🔨 WORKSHOP CONTENT 🔨
- 
-  https://steamcommunity.com/sharedfiles/filedetails/?id=3025032602
+👋🏾 Donator Weapon Shop Menu System on DarkRP 👋🏾
 
 <!> WARNING <!>
-This Addon only valid for DarkRP
+
+If u added to this addon into your addons u need to install that workshop materials content !
+
+> https://steamcommunity.com/sharedfiles/filedetails/?id=3025032602
+
+
+🔫 INSTALLATION & CONFIG 🔫
+
+1 - Go into [lua/entities/donatormarket/shared.lua]
+
+> isim = Weapons Name
+> 
+> fiyat = Weapon price on DARKRP
+> 
+> silahID = weapons q menu id on weapons tab
+
